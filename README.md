@@ -1,5 +1,5 @@
 # Vision-Transformer
-这里包含了Vit的代码以及数据集部分。数据集放在了Realse当中
+这里包含了Vit的代码以及数据集部分。完整数据集放在了Releases当中
 
 具体的讲解在blibli上请参考。
 
@@ -11,7 +11,7 @@ https://www.bilibili.com/video/BV1tZ421a7ED/?spm_id_from=333.999.0.0&vd_source=7
 
 
 
-This section contains the code for the Vision Transformer as well as the data we utilized. The data is on the realse.
+This section contains the code for the Vision Transformer as well as the data we utilized. The whole data is in the Releases.
 If you're interested in the code, the comprehensive explanation can be found on Bilibili. 
 
 https://www.bilibili.com/video/BV1tZ421a7ED/?spm_id_from=333.999.0.0&vd_source=779af9251e9f3e6eeacf9ac389b3055d
