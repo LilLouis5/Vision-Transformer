@@ -9,3 +9,6 @@ This section contains the code for the Vision Transformer as well as the data we
 If you're interested in the code, the comprehensive explanation can be found on Bilibili. 
 https://www.bilibili.com/video/BV1tZ421a7ED/?spm_id_from=333.999.0.0&vd_source=779af9251e9f3e6eeacf9ac389b3055d
 If you enjoy my video and the code, please consider starring this project.
+
+
+![image](https://github.com/LilLouis5/Vision-Transformer/assets/128580506/5341240d-4fd8-4d18-a5bc-c5ac491b9079)
