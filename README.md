@@ -7,7 +7,11 @@ https://www.bilibili.com/video/BV1tZ421a7ED/?spm_id_from=333.999.0.0&vd_source=7
 
 如果你喜欢我的视频和代码，请给我star！谢谢关注
 
-This section contains the code for the Vision Transformer as well as the data we utilized. The data on the realse.
+
+
+
+
+This section contains the code for the Vision Transformer as well as the data we utilized. The data is on the realse.
 If you're interested in the code, the comprehensive explanation can be found on Bilibili. 
 
 https://www.bilibili.com/video/BV1tZ421a7ED/?spm_id_from=333.999.0.0&vd_source=779af9251e9f3e6eeacf9ac389b3055d
